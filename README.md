@@ -9,7 +9,7 @@ Build interview-ready Pandas skills through 15 Data Engineering mini-projects co
 
 ## Progress
 
-- [ ] Day 1 - E-commerce Order Explorer
+- [x] Day 1 - E-commerce Order Explorer
 - [ ] Day 2 - Dirty Banking Transactions
 - [ ] Day 3 - Hospital Claims Filter
 - [ ] Day 4 - Logistics KPI Pipeline
