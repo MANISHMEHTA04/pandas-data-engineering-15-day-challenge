@@ -1,0 +1,11 @@
+transaction_id,customer_id,amount,transaction_type,city
+T1001,C001,5000,CREDIT,Pune
+T1002,C002,2500,debit,Mumbai
+T1003,C003,,CREDIT, pune
+T1003,C003,,CREDIT, pune
+T1004,,7000,Debit,Delhi
+T1005,C005,12000,CREDIT,MUMBAI
+T1006,C006,3500, debit ,Pune
+T1007,C007,8000,Credit, pune 
+T1008,C008,4500,DEBIT,Delhi
+T1008,C008,4500,DEBIT,Delhi
