@@ -1,0 +1,6 @@
+# tells Git which files/folders not to track.
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
