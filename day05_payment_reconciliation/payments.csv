@@ -1,0 +1,12 @@
+payment_id,order_id,payment_date,payment_method,payment_status,amount_paid
+P001,1001,2025-09-01,Credit Card,Completed,75000
+P002,1002,2025-09-01,UPI,Completed,1200
+P003,1003,2025-09-02,Debit Card,Completed,1800
+P004,1004,2025-09-03,UPI,Completed,30000
+P005,1005,2025-09-03,Net Banking,Pending,2500
+P006,1006,2025-09-04,UPI,Completed,2200
+P007,1008,2025-09-04,Credit Card,Completed,8000
+P008,1009,2025-09-05,Debit Card,Failed,6000
+P009,1010,2025-09-05,UPI,Completed,18000
+P010,1013,2025-09-06,Credit Card,Completed,5000
+P011,1014,2025-09-06,UPI,Completed,3500
