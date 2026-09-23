@@ -15,7 +15,7 @@ Build interview-ready Pandas skills through 15 Data Engineering mini-projects co
 - [x] Day 4 - Logistics KPI Pipeline
 - [x] Day 5 - Payment Reconciliation
 - [x] Day 6 - IoT Event Processing
-- [ ] Day 7 - Fraud Rule Engine
+- [x] Day 7 - Fraud Rule Engine
 - [ ] Day 8 - Regional Sales Reporting
 - [ ] Day 9 - SaaS Subscription Analytics
 - [ ] Day 10 - Ranking Engine
