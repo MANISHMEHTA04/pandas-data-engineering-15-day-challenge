@@ -16,7 +16,7 @@ Build interview-ready Pandas skills through 15 Data Engineering mini-projects co
 - [x] Day 5 - Payment Reconciliation
 - [x] Day 6 - IoT Event Processing
 - [x] Day 7 - Fraud Rule Engine
-- [ ] Day 8 - Regional Sales Reporting
+- [x] Day 8 - Regional Sales Reporting
 - [ ] Day 9 - SaaS Subscription Analytics
 - [ ] Day 10 - Ranking Engine
 - [ ] Day 11 - CDC Deduplication

@@ -1,0 +1,14 @@
+sale_id,region,product,month,revenue
+S001,North,Laptop,Jan,50000
+S002,North,Phone,Jan,20000
+S003,South,Laptop,Jan,40000
+S004,South,Phone,Jan,30000
+S005,North,Laptop,Feb,30000
+S006,North,Phone,Feb,25000
+S007,South,Laptop,Feb,45000
+S008,South,Phone,Feb,35000
+S009,West,Laptop,Jan,60000
+S010,West,Phone,Jan,40000
+S011,West,Laptop,Feb,50000
+S012,West,Phone,Feb,45000
+S013,North,Laptop,Jan,10000
