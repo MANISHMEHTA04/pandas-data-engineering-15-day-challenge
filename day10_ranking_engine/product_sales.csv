@@ -1,0 +1,13 @@
+region,product,category,revenue
+North,Laptop,Electronics,85000
+North,Phone,Electronics,62000
+North,Tablet,Electronics,62000
+North,Headphones,Accessories,28000
+South,Laptop,Electronics,92000
+South,Phone,Electronics,75000
+South,Tablet,Electronics,48000
+South,Headphones,Accessories,35000
+West,Laptop,Electronics,70000
+West,Phone,Electronics,88000
+West,Tablet,Electronics,55000
+West,Headphones,Accessories,32000

@@ -18,7 +18,7 @@ Build interview-ready Pandas skills through 15 Data Engineering mini-projects co
 - [x] Day 7 - Fraud Rule Engine
 - [x] Day 8 - Regional Sales Reporting
 - [x] Day 9 - SaaS Subscription Analytics
-- [ ] Day 10 - Ranking Engine
+- [x] Day 10 - Ranking Engine
 - [ ] Day 11 - CDC Deduplication
 - [ ] Day 12 - Incremental ETL
 - [ ] Day 13 - SCD Type 2
