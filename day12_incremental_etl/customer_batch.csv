@@ -1,0 +1,7 @@
+customer_id,name,city,email,updated_at,event_id
+C102,Neha,Bangalore,neha@email.com,2026-09-29 09:00:00,2001
+C103,Raj,Delhi,raj.new@email.com,2026-09-29 10:00:00,2002
+C105,Sam,Hyderabad,sam@email.com,2026-09-29 11:00:00,2003
+C106,Riya,Pune,riya@email.com,2026-09-29 12:00:00,2004
+C102,Neha,Bangalore,neha@email.com,2026-09-29 09:00:00,2001
+C104,Priya,Mumbai,priya@email.com,invalid_timestamp,2005
