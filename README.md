@@ -19,8 +19,8 @@ Build interview-ready Pandas skills through 15 Data Engineering mini-projects co
 - [x] Day 8 - Regional Sales Reporting
 - [x] Day 9 - SaaS Subscription Analytics
 - [x] Day 10 - Ranking Engine
-- [ ] Day 11 - CDC Deduplication
-- [ ] Day 12 - Incremental ETL
+- [x] Day 11 - CDC Deduplication
+- [x] Day 12 - Incremental ETL
 - [ ] Day 13 - SCD Type 2
 - [ ] Day 14 - Nested JSON Pipeline
 - [ ] Day 15 - Production Pipeline
