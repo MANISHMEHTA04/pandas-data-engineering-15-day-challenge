@@ -21,6 +21,6 @@ Build interview-ready Pandas skills through 15 Data Engineering mini-projects co
 - [x] Day 10 - Ranking Engine
 - [x] Day 11 - CDC Deduplication
 - [x] Day 12 - Incremental ETL
-- [ ] Day 13 - SCD Type 2
+- [x] Day 13 - SCD Type 2
 - [ ] Day 14 - Nested JSON Pipeline
 - [ ] Day 15 - Production Pipeline
