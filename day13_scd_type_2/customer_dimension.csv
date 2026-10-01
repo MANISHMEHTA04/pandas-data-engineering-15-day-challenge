@@ -1,0 +1,6 @@
+customer_id,name,city,plan,effective_start,effective_end,is_current
+101,Rahul,Pune,GOLD,2026-01-01,2026-06-30,N
+101,Rahul,Mumbai,GOLD,2026-07-01,,Y
+102,Neha,Delhi,SILVER,2026-02-15,,Y
+103,Amit,Bangalore,GOLD,2026-03-10,,Y
+105,Karan,Chennai,BRONZE,2026-04-01,,Y
