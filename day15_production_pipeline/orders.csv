@@ -1,0 +1,8 @@
+order_id,customer_id,order_time,status,region
+1001,101,2026-10-01 10:15:00,delivered,west
+1002,102,2026-10-01 11:30:00,DELIVERED,north
+1003,103,invalid_date,delivered,WEST
+1004,104,2026-10-01 14:20:00,cancelled,south
+1005,105,2026-10-01 16:10:00,DELIVERED,north
+1005,105,2026-10-01 16:10:00,DELIVERED,north
+1006,,2026-10-01 17:30:00,delivered,west
